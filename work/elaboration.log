@@ -1,0 +1,37 @@
+Riviera-PRO 2015.06.92.5791(Linux64) 2016-03-25 15:19:45
+
+Elaboration top modules:
+Architecture                  testbenchArchitecture(testbenchEntity)
+
+
+------------------------------------------------------------------------------------------------------
+Entity          | Architecture          | Library | Info | Compiler Version     | Compilation Options
+------------------------------------------------------------------------------------------------------
+testbenchEntity | testbenchArchitecture | work    |      | 2015.06.92 (Linux64) |  -2008
+ALUEntity       | ALU_32_Bit            | work    |      | 2015.06.92 (Linux64) |  -2008
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+VHDL Package                            | Library | Info | Compiler Version     | Compilation Options
+------------------------------------------------------------------------------------------------------
+standard                                | std     |      |                      | <unavailable>
+TEXTIO                                  | std     |      | 2015.06.92 (Linux64) |  -2008
+std_logic_1164                          | ieee    |      | 2015.06.92 (Linux64) |  -2008
+std_logic_arith                         | ieee    |      | 2015.06.92 (Linux64) | <unavailable>
+STD_LOGIC_UNSIGNED                      | ieee    |      | 2015.06.92 (Linux64) | <unavailable>
+------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------
+Library                                 | Comment
+------------------------------------------------------------------------------------------------------
+ieee                                    | Standard IEEE packages library
+std                                     | Standard VHDL library
+work                                    | None
+------------------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim testbenchEntity
+
+License to run VHDL performance optimized simulation unavailable.
+
+The performance of simulation is reduced. Version EDU Edition

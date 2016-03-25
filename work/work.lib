@@ -1,0 +1,36 @@
+timestamp=1458919184641
+
+[~A]
+ModifyID=1
+Version=73
+
+[aluentity]
+A/alu_32_bit=A/ALU_32_Bit 21|./../design.vhd|20|1*0
+BinL64/alu_32_bit=3*0
+I=0*727
+I/alu_32_bit=I/ALU_32_Bit 0*1835
+M=11|1|vc9|1458919184592|./../design.vhd|0*259*0x815452eb5f7c20e28c6cad695256965947846d5c|0*649*0xd986fd7175c8cf28cd774bcadde79966
+M/alu_32_bit=M/ALU_32_Bit 21|1|vc9|1458919184594|./../design.vhd|0*940*0x159296dbdf8e935cbd6bce38406ff89dc2367590|0*1743*0xb966535deb9617f745ced53ae4cc1a7f
+R=./../design.vhd|9
+Version=2015.06.92 (Linux64)|00000006789c53d0353230b0000003970118|09026c69fcedc25104b125af1ccffa3c87f9e7ef4b01a312e0da19f69348014caabab2481f901dc7ff09df09ee70dc68
+Version/alu_32_bit=2015.06.92 (Linux64)|00000006789c53d0353230b0000003970118|b49d335a4d37d8e5319e22abbc6e650976e91ea70e81f03228a3e36074747e97871e703798939c86877e25b4e645ee96
+
+[testbenchentity]
+A/testbencharchitecture=A/testbenchArchitecture 21|./../testbench.vhd|13|1*1322
+BinL64/testbencharchitecture=3*898
+I=0*2491
+I/testbencharchitecture=I/testbenchArchitecture 0*4168
+M=11|1|vc9|1458919184621|./../testbench.vhd|0*2195*0x92caa78d0b0bc25bd11f430358b407b5190aded2|0*2404*0xd986fd7175c8cf28cd774bcadde79966
+M/testbencharchitecture=M/testbenchArchitecture 21|1|vc9|1458919184623|./../testbench.vhd|0*2710*0xa1ea7c4fccb990c671615a3e126f66fbf71601e9|0*4056*0xb966535deb9617f745ced53ae4cc1a7f
+R=./../testbench.vhd|9
+Version=2015.06.92 (Linux64)|00000006789c53d0353230b0000003970118|def9b035820928790f4b8f01093179c33e082f4835c625e0c81253f559c0bbb37cad6fa8db3ec4569a21352eb2fe6f29
+Version/testbencharchitecture=2015.06.92 (Linux64)|00000006789c53d0353230b0000003970118|230a5598d84c620bbb4c8f705f1b20483faaf9961987599d1ca1235cda7f5f2b9a78e1ce56526a85a804fd0db7eacd68
+
+[~MFT]
+0=14|0work.mgf|4168|0
+1=2|1work.mgf|1322|0
+3=2|3work.mgf|898|0
+
+[~U]
+aluentity=ALUEntity 11|0*0|
+testbenchentity=testbenchEntity 11|0*2059|
